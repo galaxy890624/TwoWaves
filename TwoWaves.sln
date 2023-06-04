@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TwoWaves", "TwoWaves.pyproj", "{FBAB2A64-E97B-401B-B3E6-3D7D70D5C586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBAB2A64-E97B-401B-B3E6-3D7D70D5C586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAB2A64-E97B-401B-B3E6-3D7D70D5C586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5632209-A634-4253-A574-E048762C7730}
+	EndGlobalSection
+EndGlobal
